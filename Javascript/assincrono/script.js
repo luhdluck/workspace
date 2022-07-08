@@ -1,4 +1,4 @@
-const BASE_URL = 'https://http.cat/[status_code];
+const BASE_URL = 'https://thatcopy.pw/catapi/';
 
 const getCats = async () => {
 	try {
